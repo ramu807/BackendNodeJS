@@ -4,7 +4,8 @@ In this repo I have created the restful api using nodejs, express and mysql
 ### Author : Kesava Manda
 
 ### `MySQL configuration`
-Please create database and make the changes in the `config/db.config.js` file.
+
+Please run the scripts in DBScritps.txt in mysql and make the changes in the `config/db.config.js` file.
 
 In the project directory, you can run:
 
